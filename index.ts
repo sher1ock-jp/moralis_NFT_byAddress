@@ -3,7 +3,7 @@ import { EvmChain } from "@moralisweb3/common-evm-utils";
 
 const runApp = async () => {
   await Moralis.start({
-    apiKey: "HPww5wkdwitpN1EU8voNzs2NJHuuMwhD5HXtnRf2rRChCdwEqDnaBtTUEs5tdv8g",
+    apiKey: "XXX",
     // ...and any other configuration
   });
 
